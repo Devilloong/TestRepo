@@ -2,3 +2,6 @@
 #include <iostream>
 
 void getRepoPath();
+
+
+void getSomethingelse();
